@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yuzhou Wang"
+title                    : "Zhan Fa"
 title_separator          : "-"
-name                     : &name "Yuzhou Wang"
+name                     : &name "Zhan Fa"
 description              : &description "Homepage"
-url                      : https://yuzhou-wang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://fazhan-cs.github.io/Fazhan-cs # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yuzhou-wang.github.io"
+repository               : "Fazhan-cs"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
