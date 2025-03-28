@@ -10,15 +10,16 @@ redirect_from:
 Education
 ======
 * undergraduate student, Department of Computer Science and Technology at Nanjing University 2020-2024
+* Master Student,Nanjing University 2024-2027
 
-* graduate student,---- ----(Supervisor: Professor Yinghuan Shi)
+* Supervisor: Professor Yinghuan Shi
 
 
 Research Interest
 ======
 * Artificial Intelligence
-* Semi-Supervised learning
-* Medical Image Analysis
+* Computer Vision
+* Multi-modal Large Language Model
 
 Personal news and Services
 ======
@@ -32,5 +33,5 @@ Personal news and Services
 Skills
 ======
 * **Programming Languages**: Python, C++, C, JAVA
-* **Software & Packages**: Pytorch, Pandas, numpy
+* **Software & Packages**: Pytorch
 * **Tools**:  Git, Bash
