@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm a undergraduate student at Nanjing University, majoring in computer science and technology.After that, I will continue to study for a master's degree in Nanjing University
-
-My research interest is Computer Vision and Medical Image Analysis,including:Semi supervised medical image segmentation, and Weakly supervised learning.
+I'm a Master student at Nanjing University, majoring in computer science and technology. 
 
 
-I can be reached at 201220041@smail.nju.edu.cn
+My research interest is Computer Vision,Vision Language Model and Multi-modal Large Language Model.
+
+
+I can be reached at 522024330016@smail.nju.edu.cn
 
